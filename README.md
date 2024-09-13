@@ -52,10 +52,6 @@ This project can be easily deployed on platforms like Vercel or Netlify. Make su
 - Optimize performance for faster image processing
 - Add multi-language support for global users
 
-## Contributors
-
-- [Vetrivel Ravi](https://youtube.com/@vetrivelravi)
-
 ## License
 
 This project is licensed under the MIT License.
@@ -67,3 +63,7 @@ This project is licensed under the MIT License.
 ## After image analysis
 
 ![Image of the project](./snap/image2.png)
+
+## Link
+
+https://image-analyzer-lemon.vercel.app
